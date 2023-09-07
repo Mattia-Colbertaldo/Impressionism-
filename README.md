@@ -1,4 +1,4 @@
 # Impressionism-GAN
-Impressionism GAN - Impressionism masterpiece generator.
+Impressionism GAN -An impressionism masterpieces generator.
 
 ![image](impress.jpg)
