@@ -1,5 +1,5 @@
 # Higly Customizable Generative Adversarial Network
-Impressionism GAN - An impressionism masterpieces generator.
+Impressionism paintings generator
 
 I have created a notebook on a highly customizable GAN, which can adapt and vary its output based on the resolution of the input images.
 In addition, I have prepared a presentation showcasing the performance metrics for each configuration, including variations in image resolution and batch size. I have thoroughly analyzed the results to provide a comprehensive overview.
